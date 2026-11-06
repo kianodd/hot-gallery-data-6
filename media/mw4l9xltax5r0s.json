@@ -1,0 +1,32 @@
+{
+ "id": "mw4l9xltax5r0s",
+ "kind": "video",
+ "mime": "video/mp4",
+ "size": 25676076,
+ "parts": [
+  {
+   "path": "media/mw4l9xltax5r0s/p000.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw4l9xltax5r0s/p001.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw4l9xltax5r0s/p002.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw4l9xltax5r0s/p003.part",
+   "size": 510252
+  }
+ ],
+ "source": "https://www.youtube.com/watch?v=hzsamcIx560",
+ "created_at": 1793946311000,
+ "title": "\u0645\u0646 \u0686\u0647 \u0634\u06a9\u0644\u06cc \u0627\u0645\u061f \u263a\ufe0f",
+ "channel": "mmdtondro",
+ "yt_id": "hzsamcIx560",
+ "thumb": "media/mw4l9xltax5r0s.thumb.jpg",
+ "dur": 1140,
+ "preview": "media/mw4l9xltax5r0s.preview.gif"
+}
